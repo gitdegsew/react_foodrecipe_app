@@ -1,0 +1,14 @@
+.recipe{
+    
+    margin:1em;
+}
+
+.link{
+    margin:1em;
+    border-radius: 25px;
+    text-decoration: none;
+    color:rgb(118, 113, 109)
+}
+.link:hover{
+    background-color: rgba(0, 0, 0, 0.078);
+}
