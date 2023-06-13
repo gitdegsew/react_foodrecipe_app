@@ -6,7 +6,7 @@ const Header = ({handleSearch,searchValue,setSearchValue,handleForm}) => {
   return (
     <header className="header">
             
-            <h1>Food Resipe</h1>
+            <h1>Food Recipe</h1>
             <Link  to="/" ><FaHome size="2em" /></Link>
             
             <form className="example" onSubmit={handleSearch} >
