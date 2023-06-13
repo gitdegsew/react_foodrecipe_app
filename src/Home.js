@@ -17,6 +17,7 @@ const Home = ({
             key={item.id}
             randomRecipe={item}
             setSelectedId={setSelectedId}
+            setSelectedRecipe={setSelectedRecipe}
           />
         ))}
     </div>
