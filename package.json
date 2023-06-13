@@ -1,7 +1,7 @@
 {
   "name": "food-recipe-app",
   "version": "0.1.0",
-  "homepage": "htttps://gitdegsew.github.io/react_foodrecipe_app",
+  
   "private": true,
   "dependencies": {
     "axios": "^1.1.3",
